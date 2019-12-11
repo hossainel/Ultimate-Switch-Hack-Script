@@ -1,5 +1,13 @@
 <h1>Changelog of the Ultimate Switch Hack Script packs</h1>
 &nbsp;
+<h2>V306</h2>
+<ul>
+<li>Update the  Homebrew Menu to version 3.2.0.</li>
+<li>Update Atmosphere to version 0.10.1.</li>
+<li>Update EdiZon to the latest Github's snapshot version.</li>
+<li>Update SwitchPresence-Rewritten to version 1.6.</li>
+<li>Update Sys-clk-Editor to version 1.3.</li>
+</ul>
 <h2>V305</h2>
 <ul>
 <li>Update Atmosphere to version 0.10.0.</li>
@@ -12,7 +20,6 @@
 <li>Update PFBA to version 4.0.</li>
 <li>Update Atmosphere-Updater to version 0.5.1.</li>
 <li>Update Checkpoint to version 3.7.4.</li>
-<li>Update EdiZon to the latest Github's snapshot version.</li>
 <li>Delete the homebrews Lithium and Tinfoil.</li>
 </ul>
 <h2>V304</h2>

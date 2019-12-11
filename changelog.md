@@ -1,5 +1,10 @@
 <h1>Changelog Ultimate Switch Hack Script</h1>
 &nbsp;
+<h2>V4.1.12</h2>
+<ul>
+<li>Mise à jour du client de SwitchPresence-Rewritten en version 1.6.</li>
+<li>Mise à jour des packs de CFWs/modules/homebrews/payloads_utiles en version 306.</li>
+</ul>
 <h2>V4.1.11</h2>
 <ul>
 <li>Support du firmware 9.1.0 dans la préparation d'une SD pour ChoiDuJourNX.</li>

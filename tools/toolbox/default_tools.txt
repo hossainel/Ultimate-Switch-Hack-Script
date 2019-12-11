@@ -5,4 +5,4 @@ HacDiskMount; tools\HacDiskMount\HacDiskMount.exe
 XCI-Cutter; tools\XCI-Cutter\XCI-Cutter.exe
 Goldtree; tools\Goldtree\Goldtree.exe
 emuGUIibo; tools\emuGUIibo\emuGUIibo.exe
-SwitchPresence-Rewritten; tools\SwitchPresence-Rewritten\SwitchPresence-Rewritten.exe
+SwitchPresence-Rewritten; tools\SwitchPresence-Rewritten\SwitchPresence-Rewritten-GUI.exe
