@@ -7,6 +7,7 @@
 <li>Mise à jour de EdiZon vers la dernière version snapshot du Github.</li>
 <li>Mise à jour de SwitchPresence-Rewritten en version 1.6.</li>
 <li>Mise à jour de Sys-clk-Editor en version 1.3.</li>
+<li>Mise à jour de Sys-con en version 0.5.2.</li>
 </ul>
 <h2>V305</h2>
 <ul>
